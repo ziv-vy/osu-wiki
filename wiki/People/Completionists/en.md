@@ -14,7 +14,7 @@ As of September 2023, this achievement is recognised through a [profile badge](/
 
 ## Confirmed completionists
 
-These people have been verified by the osu! team as completionists:
+The following users have been verified by the osu! team as completionists:
 
 ### osu!
 
