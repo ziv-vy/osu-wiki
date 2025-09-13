@@ -16,6 +16,8 @@ As of September 2023, this achievement is recognised through a [profile badge](/
 
 These people have been verified by the osu! team as completionists:
 
+Please note that the granting of badges was temporarely put on hold. You may view an unofficial list of osu! completionists [here](https://score.kirino.sh/completionists).
+
 ### osu!
 
 | Player | Date of completion | Total played difficulties |
